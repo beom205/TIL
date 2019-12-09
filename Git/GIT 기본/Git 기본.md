@@ -1,20 +1,19 @@
-# 1209 - 3 - Git사용법
+# Git 기본
 
-Created: Dec 09, 2019 9:22 AM
 
-# Git 설치
+### Git 설치
 
-## 명령어
+#### 명령어
 
-### add
+##### add
 
 - 커밋할 목록에 추가
 
-### commit
+##### commit
 
 - 커밋(create a snapshot)을 만들기
 
-### push
+##### push
 
 - 현재까지의 역사(commits)가 기록되어 있는 곳에 새로 생성한 커밋들 반영하기
 - 내가 만들어 놓은 코드를 서버에 반영해주는 것
