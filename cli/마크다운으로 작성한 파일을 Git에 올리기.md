@@ -2,7 +2,7 @@
 
 
 
->CLI(command Line Interface) 기본 명령어를 배워봅시다.
+>CLI(Command Line Interface) 기본 명령어를 배워봅시다.
 
 ### 업로드할 폴더 생성
 
